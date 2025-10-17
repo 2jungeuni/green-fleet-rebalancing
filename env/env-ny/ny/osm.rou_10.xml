@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+    <vType id="taxi" vClass="taxi" />
+    <vehicle depart="806400" id="taxi_0" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="1188730083#3" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_1" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="194923802#0" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_2" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="433394647#0" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_3" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="380147339#0" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_4" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="-413212450#1" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_5" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="5670058#0" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_6" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="195743557#0" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_7" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="1080964112" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_8" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="46610719" />
+    </vehicle>
+    <vehicle depart="806400" id="taxi_9" line="taxi" insertionChecks="all" type="taxi">
+        <param key="has.taxi.device" value="true" />
+        <route edges="889114533#15" />
+    </vehicle>
+</routes>

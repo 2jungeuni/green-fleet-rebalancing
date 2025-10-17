@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes><vType id="taxi" vClass="taxi" /><vehicle depart="806400" id="taxi_0" line="taxi" insertionChecks="all" type="taxi"><param key="has.taxi.device" value="true" /><route edges="1329887723" /></vehicle><vehicle depart="806400" id="taxi_1" line="taxi" insertionChecks="all" type="taxi"><param key="has.taxi.device" value="true" /><route edges="-1238156665#1" /></vehicle><vehicle depart="806400" id="taxi_2" line="taxi" insertionChecks="all" type="taxi"><param key="has.taxi.device" value="true" /><route edges="-E9" /></vehicle></routes>
